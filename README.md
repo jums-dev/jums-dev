@@ -2,7 +2,7 @@
 
 **`Desenvolvedora`**
 
-Me chamo Julia Moreira, tenho 23 anos e sou de Guarulhos-SP,Estudante de  Análise e Desenvolvimento de Sistemas na Cruzeiro do SUL. Sou apaixonada por tecnologia e programação, Desenvolvedora iniciante com objetivos de crescer e se aperfeiçoar mais e mais nesse universo!
+Me chamo Julia Moreira, tenho 24 anos e sou de Guarulhos-SP,Estudante de  Análise e Desenvolvimento de Sistemas na Cruzeiro do SUL. Sou apaixonada por tecnologia e programação, Desenvolvedora iniciante com objetivos de crescer e se aperfeiçoar mais e mais nesse universo!
 
 <p align="left">
     <a href="https://jm6silva@gmail.com">
